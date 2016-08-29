@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Kit del programador</string>
+    <string name="app_name">Developers Kit</string>
 
-    <string name="text_numero1">Número</string>
-    <string name="text_base">En base</string>
-    <string name="text_operacion">Operacíon a realizar</string>
-    <string name="text_resultado_base">Resultado en base</string>
-    <string name="text_boton_calcular">Calcular</string>
-    <string name="text_boton_convertir">Convertir</string>
-    <string name="text_resultado">Resultado</string>
-    <string name="text_boton_borrar">Borrar</string>
+    <string name="text_numero1">Number</string>
+    <string name="text_base">In base</string>
+    <string name="text_operacion">Operation to be performed</string>
+    <string name="text_resultado_base">Outcome based</string>
+    <string name="text_boton_calcular">Calculate</string>
+    <string name="text_boton_convertir">Convert</string>
+    <string name="text_resultado">Result</string>
+    <string name="text_boton_borrar">Delete</string>
     <string-array name="bases">
         <item>2</item>
         <item>3</item>
